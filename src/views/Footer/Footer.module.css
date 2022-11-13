@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  padding: 32px 0px;
+}
+
+.authorName {
+  font-size: 14px;
+  color: rgb(150, 150, 150);
+}
+
+.socialIcons {
+  margin-top: 12px;
+}
+
+.socialIcon {
+  margin: 0px 4px;
+  cursor: pointer;
+  color: rgb(0, 58, 145);
+}
